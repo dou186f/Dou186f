@@ -41,7 +41,7 @@ I'm currently expanding my skills toward machine learning, deep learning, and ga
 
 #### **Currently Learning:** 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
