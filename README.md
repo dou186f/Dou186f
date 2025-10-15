@@ -40,11 +40,11 @@ I'm currently expanding my skills toward machine learning, deep learning, and ga
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 
 #### **Currently Learning:** 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=red) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
